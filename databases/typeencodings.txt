@@ -1,0 +1,20 @@
+[[ 41796.     51.    823.     65.     94.     96.      3.   1554.     44.
+       6.      7.     18.     33.      8.     32.     24.      4.]]
+['', 'accessories', 'sculptures', 'glass', 'textile materials', 'Navy Model Room', 'office suits', 'paintings', 'Asian ceramics', 'porcelain (material)', 'ship models', 'paper', 'jewelry', 'ecclesiastical textiles', 'lace', 'costumes and accessories', 'bone china (material)']
+: 41796
+accessories: 51
+sculptures: 823
+glass: 65
+textile materials: 94
+Navy Model Room: 96
+office suits: 3
+paintings: 1554
+Asian ceramics: 44
+porcelain (material): 6
+ship models: 7
+paper: 18
+jewelry: 33
+ecclesiastical textiles: 8
+lace: 32
+costumes and accessories: 24
+bone china (material): 4

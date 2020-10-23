@@ -1,0 +1,3 @@
+[submodule "collection"]
+	path = collection
+	url = git@github.com:tategallery/collection.git

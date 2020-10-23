@@ -1,0 +1,179 @@
+[[   690.      6.      7.      3.      5.      3.     14.     11.  38624.
+     166.     29.      1.      1.     12.      5.      4.      2.      5.
+       5.     32.     17.      6.      1.      2.     76.     36.     10.
+       2.      6.      5.      5.   1615.     57.      1.   2148.      1.
+     193.      4.      1.     19.      2.      3.      7.    442.      1.
+     124.     61.      5.      3.      3.     15.     28.      2.      1.
+      25.     13.      1.     56.     15.      7.      1.      6.    148.
+     107.     19.     38.      4.     29.      2.    591.    134.     35.
+       3.      6.      5.     83.      3.      2.      5.      5.    185.
+      12.      2.      4.    132.    279.      1.      7.     10.      1.
+     134.      6.      2.    147.    102.      6.      2.      4.    111.
+       4.     35.     40.      4.      1.     11.     37.      6.      2.
+       9.      8.     42.      2.     28.     35.    844.    148.    265.
+       5.     11.     23.     28.   2839.     53.     14.      4.     33.
+       1.     30.      1.      5.      3.      3.     12.      3.    110.
+       7.      6.      2.      9.      2.      2.     17.      1.     99.
+       2.     24.    239.   1553.    361.    875.    144.     19.    176.
+     198.      4.   2633.      2.      1.     38.      2.]]
+['', 'yarn', 'turquoise (mineral)', 'extrusive rock', 'leaf (metal)', 'willow (wood)', 'satin', 'tracing paper', 'paper', 'gilding (material)', 'copper alloy', 'silver leaf', 'buckskin', 'tempera', 'cedar (wood)', 'printing ink', 'opal', 'garnet (mineral)', 'granite (rock)', 'leather', 'boxwood (hardwood)', 'spruce (wood)', 'tombac (alloy)', 'platinum (metal)', 'ebony (wood)', 'maple (wood)', 'steel (alloy)', 'coconut (fruit)', 'olive (wood)', 'clay', 'lanyards', 'pencil', 'glaze', 'Perspex (TM)', 'photographic paper', 'Plexiglas (TM)', 'glass', 'glue', 'shagreen (leather)', 'transparant paper', 'encaustic paint', 'citrine', 'China paper', 'silver (metal)', 'blotting paper', 'porcelain (material)', 'cotton (textile)', 'agate (chalcedony)', 'aluminum (metal)', 'calf (leather)', 'gypsum', 'diamond (mineral)', 'jasper', 'yew (wood)', 'textile materials', 'ruby (mineral)', 'crystal (lead glass)', 'rosewood (wood)', 'marbled paper', 'sand', 'aquamarine (mineral)', 'touchstone', 'copper (metal)', 'Japanese paper (handmade paper)', 'purpleheart (wood)', 'linden', 'material)', 'metal', 'chalcedony', 'panel', 'ivory', 'sandstone', 'plastic (organic material)', 'metal thread', 'stucco', 'earthenware', 'fruitwood', 'varnish', 'kingwood (wood)', 'cast iron', 'linen (material)', 'lead glaze', 'cloth', 'biscuit (porcelain', 'silk', 'oak (wood)', 'amber (fossil resin)', 'India ink (ink)', 'dye', 'papier mâché', 'prepared paper', 'cherry (wood)', 'stain (coating)', 'gold (metal)', 'walnut (hardwood)', 'elm (wood)', 'juniper (wood)', 'beech (wood)', 'graphite (mineral)', 'amethyst (mineral)', 'lacquer (coating)', 'velvet (fabric weave)', 'bone china (material)', 'sealskin', 'bone (material)', 'tin (metal)', 'limestone', 'quartz (mineral)', 'pipe clay', 'slate (rock)', 'tin glaze', 'chintz', 'cobalt (mineral)', 'alabaster (mineral)', 'watercolor (paint)', 'brass (alloy)', 'bronze (metal)', 'paste (glass)', 'andesite', 'rope', 'stoneware', 'ink', 'gouache (paint)', 'pine (wood)', 'hardboard', 'gold leaf', 'luster glaze', 'silver stain', 'padouk (wood)', 'wax', 'ash (wood)', 'nautilus shell', 'silver thread', 'holly (wood)', 'iron (metal)', 'pear (wood)', 'lapis lazuli (rock)', 'glassine', 'poplar (wood)', 'serpentine (mineral)', 'soapstone (metamorphic rock)', 'satinwood (wood)', 'bole (clay)', 'terracotta (clay material)', 'chrysoprase', 'mahogany (wood)', 'deck paint', 'oil paint (paint)', 'wood (plant material)', 'canvas', 'marble (rock)', 'softwood', 'paint (coating)', 'parchment (animal material)', 'carnelian', 'chalk', 'sapphire (mineral)', 'paillette', 'mother of pearl', 'ribbon (material)']
+: 690
+yarn: 6
+turquoise (mineral): 7
+extrusive rock: 3
+leaf (metal): 5
+willow (wood): 3
+satin: 14
+tracing paper: 11
+paper: 38624
+gilding (material): 166
+copper alloy: 29
+silver leaf: 1
+buckskin: 1
+tempera: 12
+cedar (wood): 5
+printing ink: 4
+opal: 2
+garnet (mineral): 5
+granite (rock): 5
+leather: 32
+boxwood (hardwood): 17
+spruce (wood): 6
+tombac (alloy): 1
+platinum (metal): 2
+ebony (wood): 76
+maple (wood): 36
+steel (alloy): 10
+coconut (fruit): 2
+olive (wood): 6
+clay: 5
+lanyards: 5
+pencil: 1615
+glaze: 57
+Perspex (TM): 1
+photographic paper: 2148
+Plexiglas (TM): 1
+glass: 193
+glue: 4
+shagreen (leather): 1
+transparant paper: 19
+encaustic paint: 2
+citrine: 3
+China paper: 7
+silver (metal): 442
+blotting paper: 1
+porcelain (material): 124
+cotton (textile): 61
+agate (chalcedony): 5
+aluminum (metal): 3
+calf (leather): 3
+gypsum: 15
+diamond (mineral): 28
+jasper: 2
+yew (wood): 1
+textile materials: 25
+ruby (mineral): 13
+crystal (lead glass): 1
+rosewood (wood): 56
+marbled paper: 15
+sand: 7
+aquamarine (mineral): 1
+touchstone: 6
+copper (metal): 148
+Japanese paper (handmade paper): 107
+purpleheart (wood): 19
+linden: 38
+material): 4
+metal: 29
+chalcedony: 2
+panel: 591
+ivory: 134
+sandstone: 35
+plastic (organic material): 3
+metal thread: 6
+stucco: 5
+earthenware: 83
+fruitwood: 3
+varnish: 2
+kingwood (wood): 5
+cast iron: 5
+linen (material): 185
+lead glaze: 12
+cloth: 2
+biscuit (porcelain: 4
+silk: 132
+oak (wood): 279
+amber (fossil resin): 1
+India ink (ink): 7
+dye: 10
+papier mâché: 1
+prepared paper: 134
+cherry (wood): 6
+stain (coating): 2
+gold (metal): 147
+walnut (hardwood): 102
+elm (wood): 6
+juniper (wood): 2
+beech (wood): 4
+graphite (mineral): 111
+amethyst (mineral): 4
+lacquer (coating): 35
+velvet (fabric weave): 40
+bone china (material): 4
+sealskin: 1
+bone (material): 11
+tin (metal): 37
+limestone: 6
+quartz (mineral): 2
+pipe clay: 9
+slate (rock): 8
+tin glaze: 42
+chintz: 2
+cobalt (mineral): 28
+alabaster (mineral): 35
+watercolor (paint): 844
+brass (alloy): 148
+bronze (metal): 265
+paste (glass): 5
+andesite: 11
+rope: 23
+stoneware: 28
+ink: 2839
+gouache (paint): 53
+pine (wood): 14
+hardboard: 4
+gold leaf: 33
+luster glaze: 1
+silver stain: 30
+padouk (wood): 1
+wax: 5
+ash (wood): 3
+nautilus shell: 3
+silver thread: 12
+holly (wood): 3
+iron (metal): 110
+pear (wood): 7
+lapis lazuli (rock): 6
+glassine: 2
+poplar (wood): 9
+serpentine (mineral): 2
+soapstone (metamorphic rock): 2
+satinwood (wood): 17
+bole (clay): 1
+terracotta (clay material): 99
+chrysoprase: 2
+mahogany (wood): 24
+deck paint: 239
+oil paint (paint): 1553
+wood (plant material): 361
+canvas: 875
+marble (rock): 144
+softwood: 19
+paint (coating): 176
+parchment (animal material): 198
+carnelian: 4
+chalk: 2633
+sapphire (mineral): 2
+paillette: 1
+mother of pearl: 38
+ribbon (material): 2
